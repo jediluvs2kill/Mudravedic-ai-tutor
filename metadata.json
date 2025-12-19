@@ -1,0 +1,8 @@
+{
+  "name": "MudraVeda: Vedic Hand Gesture Interpreter",
+  "description": "A real-time AI assistant that uses your webcam to identify Vedic Mudras and Hastas, explaining their spiritual and yogic significance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
